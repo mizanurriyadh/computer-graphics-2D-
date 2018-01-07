@@ -39,7 +39,7 @@ int main()
 {
     int gd=DETECT, gm;
     int x1, y1, xn, yn;
-    initgraph(&gd, &gm, "c:\\turboc3\\BGI");
+    initgraph(&gd, &gm, "c:\\TurboC3\\BGI");
 
     cout<<"Enter starting Coordinate: "<<endl;
     cin>>x1>>y1;
